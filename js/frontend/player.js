@@ -98,7 +98,8 @@ window.SubtitleLanguages = {
   'german'    : 'Deutsch',
   'hungarian' : 'Magyar',
   'finnish'   : 'Suomi',
-  'bulgarian' : 'Български'};
+  'bulgarian' : 'Български',
+  'czech'     : 'Czech'};
 
 
 function videoError(e) {
